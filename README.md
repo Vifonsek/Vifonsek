@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vifonsek
--  I’m currently learning Python
+-  27 year old Marketing professional learning how to code to change career!
 
 <!---
 Vifonsek/Vifonsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
